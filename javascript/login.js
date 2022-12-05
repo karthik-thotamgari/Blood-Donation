@@ -8,7 +8,6 @@ function validate()
         alert("Hmmm ! Something is missing...");
         return false;
     }
-
     else{
         return true;
     }
